@@ -1,7 +1,7 @@
 ---
 name: Licenses Dataset Analysis
 tools: [Python, HTML, vega-lite]
-image: assets/pngs/cars.png
+image: assets/pngs/licenses.png
 description: Analyzing the licenses dataset for HW 5.1.
 custom_js:
   - vega.min
