@@ -38,5 +38,5 @@ reformatting. This plot is interactive and takes the relevant data and applies a
 </div>
 
 <div class="right">
-{% include elements/button.html link="..." text="The Analysis" %}
+{% include elements/button.html link="https://github.com/isaly2/isaly2.github.io/blob/alt/python_notebooks/licenses_analysis.ipynb" text="The Analysis" %}
 </div>
